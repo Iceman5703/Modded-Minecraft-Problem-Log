@@ -1,0 +1,615 @@
+Expanded Delight
+Lootr
+^ (both are not updated due to expanded not working with deprecated farmer's delight and me not liking lootr's new textures)
+ 
+[Deprecated] Farmer's Delight
+ 
+Entity Model features
+ 
+Entity Texture features
+ 
+Disable custom worlds advice
+ 
+[Let's Do] API
+ 
+[Let's Do] Beachparty
+ 
+[Let's Do] Vinery
+ 
+	Advanced Netherite
+ 
+	Advancement Plaques
+ 
+	AdvancementInfo
+ 
+	AdventureZ
+ 
+	Alternate Current
+ 
+	Amendments
+ 
+	Amplified Nether
+ 
+	Another Furniture Mod
+ 
+	Apple Skin
+ 
+	Aquatic Torches
+ 
+Architecture API
+ 
+	Armor Statues
+ 
+Ash API
+ 
+	Async Locator
+ 
+Athena
+ 
+	AttributeFix
+ 
+	Auditory Continued
+ 
+AutoTag
+ 
+	Axes Are Weapons
+ 
+	Axolotl Bucket Fix
+ 
+	BadOptimizations
+ 
+Balm
+ 
+	Basic Shields
+ 
+BCLib
+ 
+	Beacon Overhaul
+ 
+Bedrodium
+ 
+	Bedspreads
+ 
+	Better Chunk Loading
+ 
+Better Clouds (Disabled)
+ 
+	Better Combat
+ 
+Better Fps - Render Distance
+ 
+ 
+	Better Ping Display
+ 
+	Better Third Person
+ 
+BetterEnd
+ 
+BetterF3
+ 
+	BetterNether
+ 
+	BetterF3
+ 
+	Blanket
+ 
+	Block Runner
+ 
+	Boat Item View
+ 
+Bookshelf
+ 
+Botarium
+ 
+	Bountiful
+ 
+	Camera Utils
+ 
+	CameraOverhaul
+ 
+	Camp Chair
+ 
+	Carry on
+ 
+	Chalk (Fabric)
+ 
+	Charmonium
+ 
+	Chat heads
+ 
+	Chimes
+ 
+	Chipped
+ 
+Chunk Sending
+ 
+	Chunks fade in
+ 
+	Chunky
+ 
+CICADA
+ 
+	Client Tweaks
+ 
+Cloth Config API
+ 
+	Clumps
+ 
+Collective
+ 
+	Colorful Subtitles
+ 
+	Comforts
+ 
+	Configured
+ 
+	Connectible Chains
+ 
+	Continuity
+ 
+	Controlling
+ 
+	Convenient Decor
+ 
+CoroUtil
+ 
+	Create Crafts & Additions
+ 
+	Create Deco 
+ 
+	Create Fabric
+ 
+	Create: Power loader
+ 
+	Create: Steam ‘n’ Rails
+ 
+CreativeCore
+ 
+	Cull Less Leaves
+ 
+	Cultural Delights [Fabric]
+ 
+Cupboard
+ 
+	Cursery
+ 
+	Cut Through
+ 
+	Danger Close
+ 
+Dawn API
+ 
+	Debugify
+ 
+	Decorative Blocks
+ 
+	Deeper and Darker
+ 
+	DeepslateCutting
+ 
+	Diagonal Fences
+ 
+	Diagonal Walls
+ 
+	Diagonal Windows
+ 
+	Display Case
+ 
+	Do a barrel roll
+ 
+	Double Doors
+ 
+	Dusk
+ 
+	Dynamic crosshair
+ 
+	Dynamic FPS
+ 
+	EasierVillagerTrading
+ 
+	Easy Anvils
+ 
+Easy Magic
+ 
+	Eating Animation
+ 
+	Emote Craft
+ 
+	Enchanted Vertical Slabs
+ 
+	Enchantment Descriptions
+ 
+Enchantment Reveal
+ 
+	End Remastered
+ 
+	Enhanced Block Entities
+ 
+	EnhancedVisuals
+ 
+	Entity Culling Fabric/Forge
+ 
+	Epic Knights
+ 
+	Essential Mod
+ 
+	Every Compat
+ 
+	Exordium
+ 
+	Expanded Delight
+ 
+	Exposure
+ 
+	Extra Alchemy
+ 
+Fabric API
+ 
+Fabric Language Kotlin
+ 
+	Fabric Seasons
+ 
+	Fabric Seasons: Delight Compat
+ 
+	Fabric Seasons: Extra
+ 
+	Fabric Seasons: Terralith Compat
+ 
+Fabric Shield Lib
+ 
+	Fabrication/Forgery
+ 
+	Falling Leaves
+ 
+	FallingTree
+ 
+Fast Async World Save
+ 
+	Fast Paintings
+ 
+	Faster Random (Modrinth)
+ 
+	FerriteCore
+ 
+	FeyTweaks
+ 
+	First-person Model
+ 
+Fix GPU memory leak
+ 
+	Flow 
+ 
+Forge Config API Port
+ 
+	Friends&Foes
+ 
+	Furnace Recycle
+ 
+Fzzy Config
+ 
+GeckoLib
+ 
+	Global Packs
+ 
+	Go Fish
+ 
+	Goblin Traders
+ 
+	Grabby Mobs
+ 
+	Head in the clouds
+ 
+	Hearth & Home
+ 
+	Hellion’s Sniffer+
+ 
+	Herds Panic
+ 
+	Hold That Chunk
+ 
+	Horse Armor Stands (Modrinth)
+ 
+	Horse Stats Vanilla (Turned Off)
+ 
+Iceberg
+ 
+	ImmediatelyFast
+ 
+	Immersive Paintings
+ 
+	Immersive Weathering
+ 
+	Indium
+ 
+	IndyPets
+ 
+	Inmis
+ 
+	InmisAddon
+ 
+	Interactic
+ 
+	Inv View
+ 
+	Inventory Profiles Next
+ 
+	Inventory Totem
+ 
+	InvMove (Modrinth)
+ 
+	Item Borders
+ 
+	Items Displayed
+ 
+	Jade
+ 
+	Jade Addon
+ 
+	Just Enough Farmer’s Recipes
+ 
+	Just Enough Items
+ 
+Kambrik
+ 
+Keybind Fix
+ 
+Kiwi
+ 
+	Krypton
+ 
+	LambDynamicLights
+ 
+	Leave My Bars Alone
+ 
+	Legendary Tooltips
+ 
+liblPN
+ 
+Library Ferret - Fabric
+ 
+LibZ
+ 
+Limited Chunkloading - Chunk cleanup
+ 
+	Litematica
+ 
+	Lithium
+ 
+M.R.U
+ 
+MaLiLib
+ 
+	Max Health Fix
+ 
+Memory Settings
+ 
+	Memory Leak Fix (Modrinth)
+ 
+	Mobs Attempt Parkour
+ 
+	Mobtimizations
+ 
+	Mod Menu
+ 
+	Model Gap Fix
+ 
+	ModernFix
+ 
+MonoLib
+ 
+Moonlight Lib
+ 
+More Axolotl Variants API
+ 
+	More Axolotl Variants Mod
+ 
+	More Banner Features
+ 
+	More Chat History
+ 
+More Mob Variants
+ 
+	More Culling (Modrinth)
+ 
+	More Slabs, Stairs, and Walls
+ 
+	Mouse Tweaks
+ 
+	Music Maker Mod
+ 
+	Naturalist 
+ 
+	Nature’s Compass
+ 
+	Neruina - Ticking Entity Fixer
+ 
+	Nifty carts
+ 
+No More Useless Keys - NMUK
+ 
+	No Telemetry
+ 
+	Noisium
+ 
+	Not Enough Animations
+ 
+	Not Enough Crashes
+ 
+	Nyf’s Spiders
+ 
+	Overweight Farming
+ 
+owo (owo-lib)
+ 
+	Paintings ++
+ 
+	Particle Core
+ 
+	Particle rain
+ 
+	Pick Up Notifier
+ 
+	Playlist
+ 
+	Polymorph
+ 
+	Presence Footsteps
+ 
+prism
+ 
+puzzles Lib
+ 
+	Rare Ice
+ 
+	Realistic Fire Spread
+ 
+	Redirector
+ 
+	Regrowth (Needs configuring)
+ 
+	Replay Mod
+ 
+	Replay Voice Chat (Off or removed)
+ 
+Resourceful Lib
+ 
+	Return Copper Horns
+ 
+	River Redux
+ 
+	Seamless loading screen
+ 
+Searchables
+ 
+Server Performance - smooth chunk save
+ 
+show me your skin!
+ 
+	Shuffle
+ 
+	Simple netherite horse armor
+ 
+	Simple Voice Chat
+ 
+	Simply Lights
+ 
+	Sit(fabric)
+ 
+	Skin Layers 3D
+ 
+	Smooth Swapping
+ 
+	Sneaky Curses
+ 
+	Snow Under Trees
+ 
+	Snow! Real Magic!
+ 
+	Sodium and Iris
+ 
+	Sooty Chimneys for Fabric
+ 
+	Soul fire’d
+ 
+	Sound Physics Remastered (off)
+ 
+spark
+ 
+	Starlight
+ 
+	Status Effect Timer
+ 
+	Stoneworks
+ 
+	Structory
+ 
+	Superb Steeds
+ 
+	Supplementaries
+ 
+	Target Dummy
+ 
+tectonic
+ 
+TerraBlender
+ 
+	Terralith
+ 
+TieredZ
+ 
+	Tiny item animations ---------------------------------
+ 
+	Tiny Skeletons
+ 
+	Tips
+ 
+	ToolTipFix
+ 
+	Towns and Towers
+ 
+	Trade cycling
+ 
+transparent
+ 
+	Traveler’s Titles
+ 
+	Trinkets
+ 
+	True Ending (modrinth, mod version)
+ 
+	Ultris: Boss Expansion
+ 
+	Universal Bone Meal
+ 
+	Universal Graves
+ 
+	Universal Ores
+ 
+	VanillaTweaks
+ 
+	Visual Workbench
+ 
+	Visuality
+ 
+voice chat interaction
+ 
+	Void Totem
+ 
+	Wakes 
+ 
+	Wandering Collector
+ 
+What Are they up to (Watut)
+ 
+	WorldEdit
+ 
+	Xaero’s Minimap
+ 
+	Xaero’s World Map
+ 
+XPlus Autofish
+ 
+	YDM’s Weapon Master
+ 
+YetAnotherConfigLib
+ 
+YUNG'S API
+- Better Desert Temples
+- Better Dungeons
+- Better End Island
+- Better Jungle Temples
+- Better Mineshafts
+- Better Nether Fortresses
+- Better Ocean Monumnets
+- Better Strongholds
+- Better Witch Huts
+- Bridges
+ 
+Resource/Datapacks
+ 
+Vanilla Tweaks
+Vanilla Refresh (modrinth)
+Fresh Moves
+Fresh Animations
+Overlay`s Reimagined
+Geophilic
